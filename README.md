@@ -1,7 +1,6 @@
 
 # Email Validator
 
-## Overview
 This is a simple desktop application built with Python and Tkinter that allows users to scrape email addresses from websites and validate them using an external API. It also provides features to save the scraped emails to a database, and export the data to various file formats.
 
 ## Features
