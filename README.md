@@ -12,7 +12,7 @@ This is a simple desktop application built with Python and Tkinter that allows u
 
 ## Installation
 
-Ensure you have Python installed on your system. This application is compatible with Python 3.8 and above. Or you can use en EXE file.
+Ensure you have Python installed on your system. This application is compatible with Python 3.8 and above.
 
 ## Usage
 
